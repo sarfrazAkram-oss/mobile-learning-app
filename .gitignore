@@ -43,3 +43,42 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Additional common Flutter/Dart ignores (recommended)
+# Dart & Flutter
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+
+# Build outputs
+/build/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/engine/*
+ios/Pods/
+Podfile.lock
+
+# Android
+/android/.gradle/
+/android/app/*.keystore
+/android/app/debug.keystore
+
+# Generated files
+pubspec.lock
+
+# IDEs and editors
+.idea/
+
+.vscode/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Secrets and local files
+.env
