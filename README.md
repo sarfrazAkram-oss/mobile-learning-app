@@ -1,6 +1,6 @@
-# my_project
+# mobile-learning-app
 
-A new Flutter project.
+Mobile Learning App — a Flutter project.
 
 ## Getting Started
 
